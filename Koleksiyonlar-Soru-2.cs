@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace TEST
+namespace KoleksiyonlarSoru2
 {
     class Program
     {
