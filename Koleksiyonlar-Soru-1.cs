@@ -8,7 +8,7 @@ namespace KoleksiyonlarSoru1
     {
         static void Main(string[] args)
         {
-            int a = 10, bolunme = 0;
+            int a = 20, bolunme = 0;
             int b = a;
             ArrayList asal = new ArrayList();
             ArrayList asalDegil = new ArrayList();
